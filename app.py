@@ -12,7 +12,7 @@ HOST = "gateway01.southeast-1.prod.aws.tidbcloud.com"
 PORT = 4000
 DB_NAME = "test"
 # PASTIKAN BAPAK SUDAH KLIK 'GENERATE PASSWORD' DAN MASUKKAN DI SINI
-PASS = "ep1lKmgxXu6rlPIo" 
+PASS = "ZsUvxG2dfGphBedY" 
 
 @st.cache_resource
 def init_db():
